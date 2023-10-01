@@ -23,6 +23,14 @@ function App() {
           >
             open-sourced on GitHub
           </a>{" "}
+          and{" "}
+          <a
+          href="https://mellifluous-pithivier-422063.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+          >
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>
